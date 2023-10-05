@@ -1,0 +1,31 @@
+
+
+
+
+body{
+	font-family:Bradley Hand, cursive	;
+color:#faf9d4}
+
+td, th {
+  border: 1px solid #551B7C;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #fa8e8e;
+  
+}
+
+tr:nth-child(odd) {
+  background-color:#ff6969;
+  
+}
+
+body{background-image: url("images/bunnyxstrawberrybg.jpg");}
+
+
+.text {
+   display: inline-block;  
+  background-color: rgb(252, 66, 63); 
+  }
